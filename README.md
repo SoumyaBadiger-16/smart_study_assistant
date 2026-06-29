@@ -1,14 +1,34 @@
----
-title: Study Assistant
-emoji: 🏆
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 6.14.0
-python_version: '3.13'
-app_file: app.py
-pinned: false
-license: mit
----
+# 📚 Study Assistant
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+An AI-powered Study Assistant built using **Google Gemini API** and **Gradio**.
+
+## 🚀 Features
+
+- Friendly and Academic personalities
+- Adjustable AI generation settings
+- Powered by Gemini 2.5 Flash
+- Clean Gradio user interface
+- Deployed on Hugging Face Spaces
+
+## 🛠 Technologies Used
+
+- Python
+- Gradio
+- Google Gemini API
+- Hugging Face Spaces
+
+## 📷 Demo
+
+Live Demo:
+https://huggingface.co/spaces/Badiger16/study-assistant
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+## Author
+
+Soumya Badiger
